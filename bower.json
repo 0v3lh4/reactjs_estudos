@@ -1,0 +1,19 @@
+{
+  "name": "reactjs_estudos",
+  "version": "1.0.0",
+  "authors": [
+    "Hendrik Araujo Mourão <jhendrik@gmail.com>"
+  ],
+  "description": "Estudos react.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.14.7"
+  }
+}
